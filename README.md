@@ -1,6 +1,6 @@
 # Project Name
 
-Project intro ...
+eViser is a robo advisor for retirement plans able to provide tailored portfolio recommendations.
 
 ---
 
