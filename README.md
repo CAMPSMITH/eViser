@@ -6,11 +6,11 @@
 
 ## Solution Overview
 
-The eVisor robo advisor is a cloud native solution leveraging AWS serless services to provide an intuitive and easy-to-use solution for providing tailored retirement portfolio recommendations.  The main components of the solution are:
+The eVisor robo advisor is a cloud native solution leveraging AWS serverless services to provide an intuitive and easy-to-use solution for providing tailored retirement portfolio recommendations.  The main components of the solution are:
 
 * **Chatbot Conversational User Interface**: The chatbot convesational user interface (CUI) provides an intuitive expereince where users can seek retirement advice by using plain engilish.  No user training needed.  The chatbot is able to infer and collect required data elements from the user through natural language conversation with the user.  
 
-* **Business Logic**: Once the chatbot has collected the required data elements, it submits these to a compute service that processes the input and returns a tailored recommendation based on the nput.
+* **Business Logic**: Once the chatbot has collected the required data elements, it submits these to a compute service that processes the input and returns a tailored recommendation based on the provided input.
 
 ---
 
