@@ -6,7 +6,12 @@ eViser is a robo advisor for retirement plans able to provide tailored portfolio
 
 ## Technologies
 
-* **...** - ...
+* **Amazon SageMaker** - AN AWS Service for deploying machine learning models in the cloud
+* **Amazon Lex** - AN AWS Service for creating conversational user interfaces (CUI)
+* **Amazon S3** - AN AWS Service for storing files in the cloud
+* **AWS Lambda** - AN AWS Service for creating serverless applications in the cloud
+
+
 
 ---
 
@@ -21,6 +26,7 @@ TBD ...
 TBD ...
 
 ---
+
 
 ## Contributors
 
