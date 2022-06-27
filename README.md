@@ -1,6 +1,13 @@
 # Project Name
 
-eViser is a robo advisor for retirement plans able to provide tailored portfolio recommendations.
+eViser is a robo advisor that provides tailored retirement portfolio recommendations.
+
+---
+
+## Usage
+
+![chatbot intent testing](clips/chatbot_test.mov)
+![integrated chatbot testing](clips/integrated_chatbot_demo.mov)
 
 ---
 
@@ -11,22 +18,7 @@ eViser is a robo advisor for retirement plans able to provide tailored portfolio
 * **Amazon S3** - AN AWS Service for storing files in the cloud
 * **AWS Lambda** - AN AWS Service for creating serverless applications in the cloud
 
-
-
 ---
-
-## Installation Guide
-
-TBD ...
-
----
-
-## Usage
-
-TBD ...
-
----
-
 
 ## Contributors
 
