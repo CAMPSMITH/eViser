@@ -6,6 +6,8 @@ eViser is a robo advisor that provides tailored retirement portfolio recommendat
 
 ## Usage
 
+<video src='clips/chatbot_test.mov' width=180/>
+
 ![chatbot intent testing](clips/chatbot_test.mov)
 ![integrated chatbot testing](clips/integrated_chatbot_demo.mov)
 
